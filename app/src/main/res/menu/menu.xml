@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="add"
+        android:id="@+id/menu.add"
+        android:icon="@drawable/ic_baseline_attach_file_24"
+        app:showAsAction="always"
+        />
+    <item
+        android:title="history"
+        android:id="@+id/menu.history"
+        android:icon="@drawable/ic_baseline_history_24"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="Remove"
+        android:id="@+id/menu.del"
+        android:icon="@drawable/ic_baseline_delete_24"
+        app:showAsAction="never"
+        />
+
+</menu>

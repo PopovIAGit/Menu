@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Color RED"
+            android:id="@+id/popup.red"
+
+        />
+    <item android:title="Color GREEN"
+        android:id="@+id/popup.green"
+
+        />
+    <item android:title="Color BLUE"
+        android:id="@+id/popup.blue"
+
+        />
+
+</menu>
